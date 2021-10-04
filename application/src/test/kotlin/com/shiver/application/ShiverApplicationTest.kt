@@ -1,13 +1,13 @@
-package com.shiver.shiver
+package com.shiver.application
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class ShiverApplicationTests {
+class ShiverApplicationTest {
 
     @Test
-    fun contextLoads() {
+    fun `Should load application context`() {
     }
 
 }

@@ -1,4 +1,4 @@
-package com.shiver.shiver
+package com.shiver.application
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
