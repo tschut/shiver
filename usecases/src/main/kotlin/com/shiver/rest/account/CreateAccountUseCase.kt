@@ -1,4 +1,4 @@
-package com.shiver.account
+package com.shiver.rest.account
 
 import com.shiver.common.UseCase
 import com.shiver.entities.Account

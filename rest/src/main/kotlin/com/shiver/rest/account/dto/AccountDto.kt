@@ -1,4 +1,4 @@
-package com.shiver.account.dto
+package com.shiver.rest.account.dto
 
 import com.shiver.entities.Account
 import java.util.*
